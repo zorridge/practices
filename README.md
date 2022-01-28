@@ -33,12 +33,16 @@ As the title suggests, this is a dumping ground of my mini projects where I cons
 <!-- Demos -->
 ## Demo
 ### Museum of Candy
+* Practising responsive design and media query
+* Built with Bootstrap 5
 
 https://user-images.githubusercontent.com/86993236/150826938-5562864c-ce47-4e0c-ba75-9001ccecb3f8.mp4
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Score Keeper
+* Practising vanilla JS and handling of events
+* Built with JavaScript
 
 https://user-images.githubusercontent.com/86993236/151572912-ae99c25e-2e47-4a2b-acbf-af981bbc4fb5.mp4
 
