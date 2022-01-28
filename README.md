@@ -1,4 +1,4 @@
-# Dumping ground for HTML, CSS, and Bootstrap 5 practice
+# Dumping ground of mini projects
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Repo
 
-As the title suggests, this is the dumping ground for my static webpages practices. Nothing fancy here, just trying to make stuff look pretty.
+As the title suggests, this is a dumping ground of my mini projects where I consolidate my learning by building.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
