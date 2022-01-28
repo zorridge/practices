@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #FFAF42;
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+    background-color: #FEDEBE;
+}
+
+img {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+
+h1 {
+    font-weight: 700;
+}
+
+/* button {
+    width: 100%;
+} */
+
+.btn-group {
+    width: 100%;
+}
+
+#scoreCurrent {
+    font-size: 5em;
+}
+
+#message {
+    font-size: 1.5em;
+}
