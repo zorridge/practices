@@ -1,4 +1,4 @@
-# Mini Builds
+# Mini Projects
 
 <!-- TABLE OF CONTENTS -->
 <details>
