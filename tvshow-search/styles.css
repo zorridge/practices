@@ -1,0 +1,52 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #212129;
+    color: white;
+}
+
+@keyframes entrance {
+    from {
+      opacity: 0;
+      transform: scale(0.3);
+    }
+    to {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+
+h1 {
+    margin: 20px 0;
+}
+
+.container {
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.grid-wrap {
+    margin-top: 30px;
+    display: grid;
+    column-gap: 50px;
+    row-gap: 25px;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+}
+
+figure {
+    background-color: #323949;
+    margin: 0;
+    animation: entrance 500ms ease-out;
+}
+
+figure img {
+    margin: 10px 10px 0;
+    width: 210px;
+    height: 295px;
+    object-fit: cover;
+}
+
+figcaption {
+    padding: 5px;
+    margin-bottom: 3px;
+}
