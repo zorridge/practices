@@ -39,8 +39,9 @@ Here are some of my mini projects (100 lines and less) where I try to apply my l
 <!-- Demos -->
 ## Demo
 ### Grocery Catalogue
-* Practising RESTful routing via CRUD
-* Built with Node.js, Express, EJS, MongoDB (Mongoose)
+* Practising RESTful routing of CRUD actions using Express
+* Practising HTML templating using [EJS](https://ejs.co/)
+* Practising MongoDB manipulation using [Mongoose](https://mongoosejs.com/)
 * View source code [here](grocery-catalogue/index.js)
 
 https://user-images.githubusercontent.com/86993236/152790422-06ec08f9-1bf3-443c-a0f0-96b51cd4859f.mp4
