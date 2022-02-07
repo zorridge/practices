@@ -10,6 +10,9 @@
     <li>
       <a href="#demo">Demo</a>
       <ul>
+        <li><a href="#grocery-catalogue">Grocery Catalogue</a></li>
+      </ul>
+      <ul>
         <li><a href="#tv-show-search">TV Show Search</a></li>
       </ul>
       <ul>
@@ -35,6 +38,16 @@ Here are some of my mini projects (100 lines and less) where I try to apply my l
 
 <!-- Demos -->
 ## Demo
+### Grocery Catalogue
+* Practising RESTful routing via CRUD
+* Built with Node.js, Express, EJS, MongoDB (Mongoose)
+* View source code [here](grocery-catalogue/index.js)
+
+https://user-images.githubusercontent.com/86993236/152790422-06ec08f9-1bf3-443c-a0f0-96b51cd4859f.mp4
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 ### TV Show Search
 * Practising asynchronous functons and .fetch() using [TVmaze's API](https://www.tvmaze.com/api)
