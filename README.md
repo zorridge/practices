@@ -10,6 +10,9 @@
     <li>
       <a href="#demo">Demo</a>
       <ul>
+        <li><a href="#react-main-concepts">React Main Concepts</a></li>
+      </ul>
+      <ul>
         <li><a href="#grocery-catalogue">Grocery Catalogue</a></li>
       </ul>
       <ul>
@@ -38,6 +41,16 @@ Here are some of my mini projects (100 lines and less) where I try to apply my l
 
 <!-- Demos -->
 ## Demo
+### React Main Concepts
+* Practising [main concepts of React](https://reactjs.org/docs/hello-world.html)
+* View source code [here](react-main-concepts/src)
+
+https://user-images.githubusercontent.com/86993236/163842921-0d9ebfeb-8d6a-486e-8404-602f87272387.mp4
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 ### Grocery Catalogue
 * Practising RESTful routing of CRUD actions using Express
 * Practising HTML templating using [EJS](https://ejs.co/)
